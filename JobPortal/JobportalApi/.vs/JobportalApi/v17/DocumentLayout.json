@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.registeremps.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.registerations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\model\\registeremp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\model\\registeremp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\model\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\model\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\model\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\model\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.signups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|c:\\users\\101053\\desktop\\jobportal\\jobportalapi\\jobportalapi\\jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98EAC917-6C94-442B-A332-C3C795FD4F65}|JobportalApi\\JobportalApi.csproj|solutionrelative:jobportalapi\\jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.registeremps [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.registeremps.sql",
+              "ToolTip": "dbo.registeremps [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-11T18:01:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.registerations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.registerations.sql",
+              "ToolTip": "dbo.registerations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-11T17:59:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.signups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_101053_DOCUMENTS_JOBPORT.MDF/True/SqlTable/dbo.signups.sql",
+              "ToolTip": "dbo.signups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-11T17:03:16.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jobcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Controllers\\Jobcontroller.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Controllers\\Jobcontroller.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Controllers\\Jobcontroller.cs",
+              "RelativeToolTip": "JobportalApi\\Controllers\\Jobcontroller.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwCoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:53:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Signup.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Model\\Signup.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Signup.cs",
+              "RelativeToolTip": "JobportalApi\\Model\\Signup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:37:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Program.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Program.cs",
+              "RelativeToolTip": "JobportalApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:48:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registeremp.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Registeremp.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Model\\Registeremp.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Registeremp.cs",
+              "RelativeToolTip": "JobportalApi\\Model\\Registeremp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:43:45.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registeration.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Registeration.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Model\\Registeration.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Model\\Registeration.cs",
+              "RelativeToolTip": "JobportalApi\\Model\\Registeration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:41:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JobportalApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\appsettings.json",
+              "RelativeToolTip": "JobportalApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T16:47:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobportalApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobportalApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:33:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobportalApi",
+              "DocumentMoniker": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\JobportalApi.csproj",
+              "RelativeDocumentMoniker": "JobportalApi\\JobportalApi.csproj",
+              "ToolTip": "C:\\Users\\101053\\Desktop\\JobPortal\\JobportalApi\\JobportalApi\\JobportalApi.csproj",
+              "RelativeToolTip": "JobportalApi\\JobportalApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T16:32:56.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
